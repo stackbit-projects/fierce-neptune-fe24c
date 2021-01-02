@@ -2,7 +2,7 @@
 title: Project Title 1
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_image: images/oval-wallaby.png
+thumb_image: images/page.png
 image: images/1.jpg
 template: project
 ---
