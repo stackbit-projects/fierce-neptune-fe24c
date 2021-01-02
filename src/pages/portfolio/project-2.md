@@ -2,7 +2,7 @@
 title: Project Title 2
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image: images/knowledgeable-amaranth.jpg
+thumb_image: images/ultra-mint.jpg
 image: images/2.jpg
 template: project
 ---
