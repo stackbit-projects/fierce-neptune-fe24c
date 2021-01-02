@@ -2,7 +2,7 @@
 title: Project Title 1
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_image: images/magnificent-moon.jpg
+thumb_image: images/good-sparrow.jpg
 image: images/1.jpg
 template: project
 ---
