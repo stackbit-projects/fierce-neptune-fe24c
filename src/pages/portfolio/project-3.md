@@ -2,7 +2,7 @@
 title: Project Title 3
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
-thumb_image: images/Asset 9@2x.png
+thumb_image: images/oval-amaranth.jpg
 image: images/3.jpg
 template: project
 ---
