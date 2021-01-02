@@ -2,7 +2,7 @@
 title: Project Title 2
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image: images/icon7754.jpg
+thumb_image: images/icoipad.jpg
 image: images/2.jpg
 template: project
 ---
