@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Pratheek Irvathur'
     content: >-
-      I'm a user experience and interface designer. I specialize in design
+      I'm a user experience and interface designer who specializes in design
       research, prototyping & testing. 
     actions:
       - label: Let's talk
