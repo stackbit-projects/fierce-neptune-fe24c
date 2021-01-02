@@ -2,7 +2,7 @@
 title: Project Title 2
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image: images/oval-celery.jpg
+thumb_image: images/Platables-teaser-image.jpg
 image: images/2.jpg
 template: project
 ---
